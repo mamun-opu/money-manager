@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color:lightskyblue
+    background-color:darkslategray
 }
 .container{
     margin-top: 40px;
@@ -53,7 +53,7 @@ body{
     background-color: brown;
 }
 .deposit-money{
-    background-color:mediumseagreen
+    background-color:darkgreen
 }
 .withdraw-money{
     background-color:maroon;
