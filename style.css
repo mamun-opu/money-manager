@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: white;
+    background-color:lightskyblue
 }
 .container{
     margin-top: 40px;
@@ -42,4 +42,19 @@ body{
     width: 75%;
     text-align: center;
     margin: 0 auto;
+}
+.Withdraw{
+    background-color: teal;
+}
+.deposit{
+    background-color: rgb(50, 50, 245);
+}
+.Balance{
+    background-color: brown;
+}
+.deposit-money{
+    background-color:mediumseagreen
+}
+.withdraw-money{
+    background-color:maroon;
 }
